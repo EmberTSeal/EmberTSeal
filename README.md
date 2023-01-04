@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Ember, aka Trisha [she/her], a BTech CSE undergrad.
+
+- 🌱 I’m currently learning:
+  - web dev
+  - CPP
+  
+- 🔭 I’m currently working on:
+  - a //Landing Page// project using CSS flexbox
+  - some minor challenges from FrontEndMentor
+  
+- 📫 How to reach me:
+  - LinkedIn: https://www.linkedin.com/in/trisha-seal-617a89244/
