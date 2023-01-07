@@ -22,7 +22,8 @@ I'm Ember, aka Trisha [she/her], a BTech CSE undergrad.
   - CPP
   
 - 🔭 I’m currently working on:
-  - a //Landing Page// project using CSS flexbox
+  - a Landing Page project using CSS flexbox
+  - a project for Synapse 1.0
   - some minor challenges from FrontEndMentor
   
 - 📫 How to reach me:
