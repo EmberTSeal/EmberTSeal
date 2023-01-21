@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 I'm Ember, aka Trisha [she/her], a BTech CSE undergrad.
 
 - 🌱 I’m currently learning:
-  - Bootstrap
-  - JS
+  - FrontEnd Development
   - CPP
   
 - 🔭 I’m currently working on:
-  -  ...
+  -  Mini projects (FrontEndMentor,FrontEnd Practice) 
   
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/trisha-seal-617a89244/
