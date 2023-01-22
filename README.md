@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ember, aka Trisha [she/her], a BTech CSE undergrad.
+I'm Ember, aka Trisha, a BTech CSE undergrad.
 
 - 🌱 I’m currently learning:
   - FrontEnd Development
   - CPP
   
 - 🔭 I’m currently working on:
-  -  Mini projects (FrontEndMentor,FrontEnd Practice) 
+  -  Mini projects
   
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/trisha-seal-617a89244/
