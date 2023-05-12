@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ember</h1>
 <h3 align="center">A BTech CSE Undergrad from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+🌱 I’m currently learning :
+- Web Development
+- C++
+- Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
