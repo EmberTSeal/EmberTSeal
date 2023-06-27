@@ -2,9 +2,8 @@
 <h3 align="center">A BTech CSE Undergrad from India</h3>
 
 🌱 I’m currently learning :
-- Web Development
+- Web Development (The Odin Project)
 - C++
-- Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
