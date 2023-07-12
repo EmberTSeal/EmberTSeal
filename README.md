@@ -10,9 +10,9 @@ Outside of the tech realm, I'm an avid reader and a budding pianist, eager to im
 <a href="https://www.leetcode.com/embertseal">![Static Badge](https://custom-icon-badges.demolab.com/badge/-LeetCode-gold?style=for-the-badge&logo=leetcode&logoColor=black)</a>
 <a href="https://www.hackerrank.com/ember_tseal">![Static Badge](https://custom-icon-badges.demolab.com/badge/-hackerrank-0f9600?style=for-the-badge&logo=codechef&logoColor=white)</a>
 
-<hr>
+<hr size="1">
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.w3.org/html/">![Static Badge](https://custom-icon-badges.demolab.com/badge/-html-e36200?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3.org/css/">![Static Badge](https://custom-icon-badges.demolab.com/badge/-css-024ac7?style=for-the-badge&logo=css3&logoColor=white)</a>
@@ -29,7 +29,7 @@ Outside of the tech realm, I'm an avid reader and a budding pianist, eager to im
 <a href="https://www.linux.org/">![Static Badge](https://custom-icon-badges.demolab.com/badge/-linux-teal?style=for-the-badge&logo=linux&logoColor=white)</a>
 <a href="https://www.gnu.org/software/bash/">![Static Badge](https://custom-icon-badges.demolab.com/badge/-bash-262626?style=for-the-badge&logo=terminal&logoColor=white)</a>
 
-<hr>
+<hr size="1">
 
 <h3>Stats:</h3>
 <p>
