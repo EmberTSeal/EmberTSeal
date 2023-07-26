@@ -34,5 +34,5 @@ Outside of the tech realm, I'm an avid reader and a budding pianist, eager to im
 <h3>Stats:</h3>
 <p>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=embertseal&show_icons=true&rank_icon=github&theme=radical&card_width=320" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=embertseal&show_icons=true&theme=radical&locale=en&layout=compact" alt="embertseal" /> 
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=embertseal&layout=compact&show_icons=true&theme=radical&langs_count=8&card_width=320&locale=en" />
 </p>
